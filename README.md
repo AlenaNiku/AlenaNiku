@@ -2,6 +2,7 @@
 ### Find me around the web 🌐  
 * My perosnal website https://alenanikulina.nyc 
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/alena-nikulina/)!
+* Check out my blog on [Medium](https://medium.com/@alenanikulina0)
                   
 
 
