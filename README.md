@@ -3,8 +3,11 @@
 * My personal website https://alenanikulina.nyc 
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/alena-nikulina/)!
 * Check out my blog on [Medium](https://medium.com/@alenanikulina0) </br>
-</br> 🌱 &nbsp; I’m currently learning everything about **JavaScript**!</br>
-💬 &nbsp; Ask me about my **Flatiron Coding Bootcamp** experience 💻  &nbsp;, living in **Siberia** ☃️ &nbsp; or how to make a delicious **gravlax** 😋
+</br>
+
+🌱 &nbsp; I’m currently learning everything about **JavaScript**!</br>
+💬 &nbsp; Ask me about my **Flatiron Coding Bootcamp** experience 💻  &nbsp;, living in **Siberia** ☃️ &nbsp; or how to make a delicious **gravlax** 😋 </br> 
+⚡ &nbsp; Fun fact: I am fascinated by **Neuroplasticity** and the power of our brains! 💪🧠
                   
 
 
@@ -20,5 +23,5 @@ Here are some ideas to get you started:
 💬 Ask me about ...
 
 
-- ⚡ Fun fact: ...
+- 
 -->
