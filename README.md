@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Alena! I'm passionate about technonlogy and people
-![Abstract me with computer](https://user-images.githubusercontent.com/50340096/88722395-2dab7e00-d0f5-11ea-970a-ab0e4066348b.png)
+![Abstract me with computer](https://user-images.githubusercontent.com/50340096/88729100-17a3ba80-d101-11ea-9992-841a46e53358.png)
 ### Find me around the web 🌐  
 * My perosnal website https://alenanikulina.nyc 
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/alena-nikulina/)!
