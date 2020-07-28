@@ -3,8 +3,8 @@
 * My personal website https://alenanikulina.nyc 
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/alena-nikulina/)!
 * Check out my blog on [Medium](https://medium.com/@alenanikulina0) </br>
-</br> 🌱 &nbsp; I’m currently learning everything about JavaScript!</br>
-💬 &nbsp; Ask me about my Flatiron Coding Bootcamp experience 💻  &nbsp;, living in Siberia ☃️ &nbsp; or how to make a delicious gravlax 😋
+</br> 🌱 &nbsp; I’m currently learning everything about **JavaScript**!</br>
+💬 &nbsp; Ask me about my **Flatiron Coding Bootcamp** experience 💻  &nbsp;, living in **Siberia** ☃️ &nbsp; or how to make a delicious **gravlax** 😋
                   
 
 
@@ -14,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning everything about JavaScript!
+🌱 I’m currently learning everything about **JavaScript**!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 💬 Ask me about ...
