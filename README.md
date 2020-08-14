@@ -2,7 +2,7 @@
 ### Find me around the web 🌐  
 * My personal website https://alenanikulina.nyc 
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/alena-nikulina/)!
-* Check out my blog on [Medium](https://medium.com/@alenanikulina0) and [DEV.to](https://dev.to/alenaniku) </br>
+* Check out my blog on [Medium](https://medium.com/@alenanikulina0) or [DEV.to](https://dev.to/alenaniku) </br>
 
 🌱 &nbsp; I’m currently learning everything about **JavaScript**!</br>
 💬 &nbsp; Ask me about my **Flatiron Coding Bootcamp** experience 💻  &nbsp;, living in **Siberia** ☃️ &nbsp; or how to make a delicious **gravlax** 😋 </br> 
