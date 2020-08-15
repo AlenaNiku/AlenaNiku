@@ -4,7 +4,7 @@
 * Let's connect on [LinkedIn](https://www.linkedin.com/in/alena-nikulina/)!
 * Check out my blog on [Medium](https://medium.com/@alenanikulina0) or [DEV.to](https://dev.to/alenaniku) </br>
 
-🌱 &nbsp; I’m currently learning everything about **JavaScript**!</br>
+🌱 &nbsp; I’m currently learning everything about **JavaScript** and **Salesforce**!</br>
 💬 &nbsp; Ask me about my **Flatiron Coding Bootcamp** experience 💻  &nbsp;, living in **Siberia** ☃️ &nbsp; or how to make a delicious **gravlax** 😋 </br> 
 ⚡ &nbsp; Fun fact: I am fascinated by **Neuroplasticity** and the power of our brains! 💪🧠
                   
